@@ -1,0 +1,169 @@
+.logo-image{
+    width: 66px;
+    border-radius: 8px;
+}
+
+#navitem-1 {
+    color: white;
+    font-family: "Roboto", sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#navitem-1:hover {
+    text-decoration: underline;
+    margin-top: 5px;
+}
+
+#navitem-2{
+    color: white;
+    font-family: "Roboto", sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#navitem-2:hover {
+    text-decoration: underline;
+    margin-top: 5px;
+}
+
+#navitem-3{
+    color: white;
+    font-family: "Roboto", sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#navitem-3:hover {
+    text-decoration: underline;
+    margin-top: 5px;
+}
+
+#navitem-4{
+    color: white;
+    font-family: "Roboto", sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#navitem-4:hover {
+    text-decoration: underline;
+    margin-top: 5px;
+}
+
+.homebg-container{
+    background-color: #1f2933;
+    background-size: cover;
+}
+
+.main-heading{
+    color: white;
+    font-family: "Roboto", sans-serif;
+    font-weight: bold;
+}
+.span-heading{
+    font-family: "Roboto", sans-serif;
+    font-weight: bold;
+    font-size: 28px;
+}
+.main-paragraph{
+    color: #9aa5b1;
+    font-family: "sans-serif";
+    font-weight: 400;
+    font-size: 18px;
+}
+.image{
+    border-radius: 50%;
+}
+.icon-container{
+    background-color: #9aa5b1;
+    height: 46px;
+    width: 50px;
+    border-radius: 60%;
+    padding-top: 9px;
+    text-align: center;
+}
+.icon{
+    font-size: 30px;
+    color: black;
+}
+.all-container{
+    background-color: #1f2933;
+    background-size: cover;
+}
+.image-2{
+    border-radius: 20px;
+    border-style: solid;
+    border-color:whitesmoke;
+    border-width: 2px;
+}
+
+.card-container{
+    background-color: #323f4b;
+    border-radius: 12px;
+    transition-duration: 0.90s;
+}
+.card-container:hover {
+    transform: scale(1.05);
+}
+.card-heading{
+    color: white;
+    font-size: 28px;
+    padding: 12px;
+}
+
+.card-paragraph{
+    color: #9aa5b1;
+    font-size: 17px;
+    padding: 12px;
+}
+
+.image-logo{
+    width: 45%;
+    border-radius: 10%;
+}
+
+.input-value{
+    font-size: 22px;
+    font-family: "Roboto", sans-serif;
+    color: white;
+}
+
+.custom-input{
+    color: white !important;
+    width: 50% !important;
+    background-color: #323f4b !important;
+    font-size: 18px !important;
+    font-weight: 400 !important;
+}
+
+.icon-img-container {
+    background-color: #323f4b;
+    height: 120px;
+    width: 120px;
+    border-radius: 12px;
+}
+
+.icon-img-container:hover {
+    transform: scale(1.05);
+}
+.icon-img-1{
+    font-size: 55px; 
+    color: #E34F26;
+}
+.icon-img-2{
+    font-size: 55px; 
+    color: #1572B6;
+}
+.icon-img-3{
+    font-size: 55px; 
+    color: #7952B3;
+}
+.icon-img-4{
+    font-size: 55px; 
+    color: #f4b400;
+}
+.icon-img-5{
+    font-size: 55px; 
+    color: #3776AB;
+}
